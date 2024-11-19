@@ -1,0 +1,326 @@
+{
+    "name": "Yishak Solomon",
+    "description": "Mobile App Developer",
+    "subDescription": "Flutter | FlutterFlow And Python Enthusiast",
+    "contacts": [
+        {
+            "tooltip": "Github",
+            "url": "https://github.com/Yishak123-sol",
+            "icon": {
+                "codePoint": "0xefb7",
+                "fontFamily": "FontAwesome"
+            }
+        },
+        {
+            "tooltip": "LeetCode",
+            "url": "https://leetcode.com/u/yishak143/",
+            "icon": {
+                "codePoint": "0xf137",
+                "fontFamily": "FontAwesome"
+            }
+        },
+        {
+            "tooltip": "LinkedIn",
+            "url": "https://www.linkedin.com/in/yisehak-solomon-774899287/",
+            "icon": {
+                "codePoint": "0xeffb",
+                "fontFamily": "FontAwesome"
+            }
+        },
+        {
+            "tooltip": "YishakSolomon34@gmail.com",
+            "url": "mailto:YishakSolomon34@gmail.com",
+            "icon": {
+                "codePoint": "0xeaad",
+                "fontFamily": "FontAwesome"
+            }
+        },
+        {
+            "tooltip": "+251925348152",
+            "url": "tel:+251925348152",
+            "icon": {
+                "codePoint": "0xecbb",
+                "fontFamily": "FontAwesome"
+            }
+        }
+    ],
+    "resumes": [
+        {
+            "languageCode": "en",
+            "url": "https://drive.google.com/file/d/1X2LxtJYu3N8aAVzUFAdleH0q640vtrUD/view?usp=sharing"
+        }
+    ],
+    "aboutDescription": "Hey There👋, I'm Yishak Solomon, I'm a passionate mobile app developer with over two years of experience specializing in Flutter and FlutterFlow. I create intuitive, high-performance applications that focus on delivering seamless user experiences. My expertise includes building scalable minimum viable products (MVPs)  with clean architecture and modern design principles. I'm dedicated to bringing innovative ideas to life and continuously learning new technologies to stay ahead of the curve. Whether working on personal projects or collaborating with clients, I aim to make a meaningful impact through technology that enhances both functionality and social value.",
+    "experiences": [
+        {
+            "role": "Mobile App Developer",
+            "company": "Ewenet Communication PLC",
+            "description": "Developed a platform to connect actors and models with casting agents and directors seeking talent by implementing a clear registration process to ensure a seamless user experience for both parties. Integrated an existing API and connected it with an algorithm to effectively match talent with job opportunities while collaborating with the team to test and refine the app's features for optimal performance and usability.",
+            "isPresent": false,
+            "startYear": 2023,
+            "startMonth": 3,
+            "endYear": 2023,
+            "endMonth": 5,
+            "technologies": [
+                {
+                    "name": "Flutter",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/flutter.svg"
+                    }
+                },
+                {
+                    "name": "Dart",
+                    "icon": {
+                        "assetName": "assets/icons/other/dart.svg"
+                    }
+                }   
+            ],
+            "links": [
+                {
+                    "url": "https://ewenet.net/",
+                    "display": "Ewenet Communication PLC"
+                }
+            ]
+        },
+        {
+            "role": "Competitive Programmer",
+            "company": "African to Silicon Valley (A2SV)",
+            "description": "Participated in the prestigious A2SV program, a rigorous initiative designed to prepare African talent for opportunities at global tech companies. Developed advanced problem-solving and algorithmic skills by solving over 400 challenging problems on platforms like LeetCode, HackerRank, and Codeforces. Collaborated with a team of highly motivated peers to tackle real-world challenges, engage in mock interviews, and enhance software development expertise. The program significantly improved my ability to write efficient, clean code and strengthened my foundations in data structures and algorithms.",
+            "startYear": 2022,
+            "startMonth": 3,
+            "endYear": 2023,
+            "endMonth": 1,
+            "technologies": [
+                {
+                    "name": "Python",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/python.svg"
+                    }
+                }
+                
+                
+            ],
+            "links": [
+          {"url": "https://a2sv.org/", "display": "African to Silicon Valley (A2SV)"}
+        ]
+            
+        }
+    ],
+    "present": "Present",
+    "projects": [
+        {
+            "name": "Kiya-Equb",
+            "description": "This open source project allows anyone to have an online portfolio in less than 10 minutes. It follows a riverpod-based architecture, using a feature-first approach for its structure. It is fully responsive and supports multiple themes as well as multiple languages.",
+            "url": "",
+            "icon": {
+                "codePoint": "0xefb7",  
+                "fontFamily": "FontAwesome",
+                "color": "0xffffffff"
+            },
+            "screenshotPath": "assets/images/kiyaequb.jpg",
+            "technologies": [
+                {
+                    "name": "Flutter",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/flutter.svg"
+                    }
+                },
+                {
+                    "name": "Dart",
+                    "icon": {
+                        "assetName": "assets/icons/other/dart.svg"
+                    }
+                },
+                {
+                    "name": "Firebase",
+                    "icon": {
+                        "assetName": "assets/icons/other/firebase.svg"
+                    }
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://github.com/Yishak123-sol/Kiya-Equb-App",
+                    "display": "Kiya-Equb"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "description": "",
+            "url": "",
+            "icon": {
+                "codePoint": "0xefb7",
+                "fontFamily": "FontAwesome",
+                "color": "0xffffffff"
+            },
+            "screenshotPath": "assets/images/learnflow-api.png",
+            "technologies": [
+                {
+                    "name": "Node.js",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/nodejs.svg"
+                    }
+                },
+                {
+                    "name": "Express",
+                    "icon": {
+                        "assetName": "assets/icons/other/express-js.svg",
+                        "color": "0xffffffff"
+                    }
+                },
+                {
+                    "name": "TypeScript",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/typescript.svg"
+                    }
+                },
+                {
+                    "name": "MongoDB",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/mongodb.svg"
+                    }
+                },
+                {
+                    "name": "Docker",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/docker.svg"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Learn Flow Backoffice",
+            "description": "This is the back-office build for managers in the Learn Flow project. This Single-Page App enables them to monitor activity such as user traffic and invoices associated with their applications and users.",
+            "url": "https://github.com/AladdineDev/learnflow_backoffice#readme",
+            "icon": {
+                "codePoint": "0xefb7",
+                "fontFamily": "FontAwesome",
+                "color": "0xffffffff"
+            },
+            "screenshotPath": "assets/images/learnflow-backoffice.png",
+            "technologies": [
+                {
+                    "name": "Flutter",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/flutter.svg"
+                    }
+                },
+                {
+                    "name": "Dart",
+                    "icon": {
+                        "assetName": "assets/icons/other/dart.svg"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "GSB-Frais",
+            "description": "The GSB-Frais project is a web-based expense management application developed for medical representatives and accountants at the fictional company GSB. It facilitates the entry and review of monthly reports by medical representatives, while enabling accountants to process them.",
+            "url": "https://github.com/AladdineDev/GSB-Frais#readme",
+            "icon": {
+                "codePoint": "0xefb7",
+                "fontFamily": "FontAwesome",
+                "color": "0xffffffff"
+            },
+            "screenshotPath": "assets/images/gsb-frais.png",
+            "technologies": [
+                {
+                    "name": "Symfony",
+                    "icon": {
+                        "codePoint": "0xf0ab",
+                        "fontFamily": "FontAwesome"
+                    }
+                },
+                {
+                    "name": "PHP",
+                    "icon": {
+                        "codePoint": "0xef29",
+                        "fontFamily": "BoxIcons"
+                    }
+                },
+                {
+                    "name": "Bootstrap",
+                    "icon": {
+                        "assetName": "assets/icons/other/bootstrap.svg"
+                    }
+                },
+                {
+                    "name": "MariaDB",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/mariadb.svg"
+                    }
+                },
+                {
+                    "name": "Docker",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/docker.svg"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "GSB-RV-Visiteur-Serveur",
+            "description": "The GSB project's REST API serves as an interface for various project clients, including Android, Desktop, and Web applications.",
+            "url": "https://github.com/AladdineDev/GSB-RV-Visiteur-Serveur#readme",
+            "icon": {
+                "codePoint": "0xefb7",
+                "fontFamily": "FontAwesome",
+                "color": "0xffffffff"
+            },
+            "screenshotPath": "assets/images/gsb-rv-visiteur-serveur.png",
+            "technologies": [
+                {
+                    "name": "Flask",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/flask.svg",
+                        "color": "0xffffffff"
+                    }
+                },
+                {
+                    "name": "Python",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/python.svg"
+                    }
+                },
+                {
+                    "name": "MariaDB",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/mariadb.svg"
+                    }
+                },
+                {
+                    "name": "Docker",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/docker.svg"
+                    }
+                }
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "code": "en",
+            "name": "English",
+            "nativeName": "English",
+            "icon": {
+                "assetName": "assets/icons/flags/united-states-of-america.svg"
+            }
+        }
+    ],
+    "bottomBanner": {
+        "message": "Open source portfolio -",
+        "displayLink": "Fork it",
+        "linkUrl": "https://github.com/AladdineDev/portfolio#readme"
+    },
+    "portfolio": "Yishak",
+    "homeSectionTitle": "Home",
+    "aboutSectionTitle": "About",
+    "aboutSectionTitleAlt": "About Me",
+    "experienceSectionTitle": "Experience",
+    "projectsSectionTitle": "Projects",
+    "resume": "Resume",
+    "downloadResume": "Download resume",
+    "openUrlError": "Could not open the url",
+    "unknownLanguageError": "Language unknown"
+}
